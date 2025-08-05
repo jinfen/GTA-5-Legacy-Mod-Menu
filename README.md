@@ -13,8 +13,8 @@
 - Time/weather control
 
 ### 💸 Economy
-- Money drops (**Single Player Only**)
-- RP modifier (SP only)
+- Money drops 
+- RP modifier 
 - Unlock all vehicles
 - Property editor
 

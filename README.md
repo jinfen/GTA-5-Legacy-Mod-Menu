@@ -1,6 +1,6 @@
 # 🚗 GTA V Legacy Mod Menu (v1.8.3)
 
-![GTA V Mod Menu Banner](https://via.placeholder.com/800x300?text=GTA+V+Legacy+Mod+Menu)
+
 
 
 

